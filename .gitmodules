@@ -20,5 +20,5 @@
 	ignore = dirty
 [submodule "extern/safeslinger-exchange"]
 	path = extern/safeslinger-exchange
-	url = https://github.com/open-keychain/exchange-android
+	url = https://github.com/open-keychain/exchange-android.git
 	ignore = dirty
